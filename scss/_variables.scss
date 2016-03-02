@@ -124,7 +124,11 @@ $grid-breakpoints: (
   md: 768px,
   lg: 992px,
   xl: 1200px,
+<<<<<<< Updated upstream
   xxl: 1560px
+=======
+  xxl: 1520px
+>>>>>>> Stashed changes
 ) !default;
 @include _assert-ascending($grid-breakpoints, "$grid-breakpoints");
 
